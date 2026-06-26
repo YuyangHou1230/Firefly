@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
 	title: "Houwaiwai的博客",
 
 	// 站点副标题
-	subtitle: "helllo",
+	subtitle: "hello",
 
 	// 站点 URL
 	site_url: "https://blog.houyuyang.xyz/",
